@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.0.2">
+
+## 0.0.2 (2024-07-27)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.1">
 
 ## 0.0.1 (2024-06-19)
@@ -16,27 +26,12 @@
 
 <!-- /.features -->
 
-<section class="breaking-changes">
-
-### BREAKING CHANGES
-
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3): remove `complex/reviver-float32` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex-float32/reviver` which provides the same API and
-    implementation.
-
-</section>
-
-<!-- /.breaking-changes -->
-
 <section class="commits">
 
 ### Commits
 
 <details>
 
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3) - **remove:** remove `complex/reviver-float32` _(by Athan Reines)_
 -   [`f4cdf4d`](https://github.com/stdlib-js/stdlib/commit/f4cdf4d132061dfce99bad6a0e8a7f3d239d4065) - **feat:** add `complex/float32/ctor` _(by Athan Reines)_
 
 </details>
