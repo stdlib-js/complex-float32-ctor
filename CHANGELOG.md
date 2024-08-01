@@ -2,29 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="v0.0.2">
+<section class="release" id="unreleased">
 
-## 0.0.2 (2024-07-27)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.0.1">
-
-## 0.0.1 (2024-06-19)
-
-<section class="features">
-
-### Features
-
--   [`f4cdf4d`](https://github.com/stdlib-js/stdlib/commit/f4cdf4d132061dfce99bad6a0e8a7f3d239d4065) - add `complex/float32/ctor`
-
-</section>
-
-<!-- /.features -->
+## Unreleased (2024-08-01)
 
 <section class="commits">
 
@@ -32,7 +12,7 @@ No changes reported for this release.
 
 <details>
 
--   [`f4cdf4d`](https://github.com/stdlib-js/stdlib/commit/f4cdf4d132061dfce99bad6a0e8a7f3d239d4065) - **feat:** add `complex/float32/ctor` _(by Athan Reines)_
+-   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
 
 </details>
 
@@ -51,6 +31,26 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.2">
+
+## 0.0.2 (2024-07-27)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.1">
+
+## 0.0.1 (2024-06-19)
+
+No changes reported for this release.
 
 </section>
 
