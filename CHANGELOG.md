@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-18)
+## Unreleased (2025-12-19)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`6cfb626`](https://github.com/stdlib-js/stdlib/commit/6cfb626f79f98649c752a652e003c0917d0a5d19) - **refactor:** use utility to set properties _(by Athan Reines)_
 -   [`29bd670`](https://github.com/stdlib-js/stdlib/commit/29bd6700071a2bcb775ad67639e167ab0fad2ce2) - **style:** consolidate redundant lint directives _(by Athan Reines)_
 -   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 
